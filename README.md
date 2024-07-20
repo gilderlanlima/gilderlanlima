@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gil Lima 🖐️
 
-![Gil GitHub stats](https://github-readme-stats.vercel.app/api?username=Gil980&show_icons=true&theme=dracula)
+![Gil GitHub stats](https://github-readme-stats.vercel.app/api?username=gilderlanlima&show_icons=true&theme=dracula)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
