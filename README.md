@@ -2,7 +2,7 @@
 
 # Gilderlan Lima
 
-**Desenvolvimento, suporte, implantacao e automacao**
+**Desenvolvimento, suporte, implantação e automação**
 
 <p align="center">
   Tecnologia aplicada ao negocio, da sustentacao a entrega de solucoes.
